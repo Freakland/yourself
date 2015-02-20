@@ -1,0 +1,16 @@
+{
+	"name": "expressify",
+	"description": "Express with steroides",
+	"version": "0.0.1",
+	"_id": "expressify@0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lastroom/expressify"
+	},
+	"dependencies": {
+		"express": "4.x",
+		"underscore": "1.5.2",
+		"jade": "*"
+	},
+	"main": "lib/index"
+}
